@@ -13,7 +13,7 @@ keymap_conf = [
 		'km':{'name':'Sculpt', 
 			'space_type11':"EMPTY"},
 		'item':{'op':'wm.call_menu_pie',
-			'key':'W', 'type':'CLICK',
+			'key':'W', 'type':'PRESS',
 			'ctrl':False, 'shift':False, 'alt':False, 'oskey':False
 		},
 		'prop':{'name':'ZHTOOLS_MT_ZhSculptToolPie'}
